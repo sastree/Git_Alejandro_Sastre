@@ -1,0 +1,9 @@
+package paquete;
+
+public class AS {
+
+	public static void main(String[] args) {
+		System.out.println("Alumno: Alejandro Sastre");
+	}
+
+}
